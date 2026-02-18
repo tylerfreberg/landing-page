@@ -23,6 +23,11 @@ body {
     white-space: nowrap;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
+
 .links ul {
     display: flex;
     flex-wrap: nowrap;
@@ -199,9 +204,4 @@ figcaption {
     color: lightgray;
     padding: 25px;
     font-size: 15px;
-}
-
-button a {
-    text-decoration: none;
-    color: white;
 }
