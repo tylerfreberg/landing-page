@@ -1,6 +1,8 @@
 body {
     background-color: #1F2937;
     font-family: "Roboto", "Helvetica", "sans-serif";
+    display: flex;
+    flex-direction: column;
 }
 
 /* header */
