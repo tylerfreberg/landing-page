@@ -199,3 +199,8 @@ figcaption {
     padding: 25px;
     font-size: 15px;
 }
+
+button a {
+    text-decoration: none;
+    color: white;
+}
